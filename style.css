@@ -1,0 +1,26 @@
+img{
+    height: 250px;
+    width: 250px;
+    border-radius:20px;
+    box-shadow: 3px 3px 3px wheat;
+    
+}
+body{
+    background: linear-gradient(90deg,black,grey,wheat);
+    
+}
+button{
+    background: linear-gradient(90deg,black,white,wheat,black);
+    border-radius: 20px;
+    
+}
+#a:hover button{
+    background: linear-gradient(90deg,black,blue,black);
+    color: white;
+    height: 20px;
+    width: 70px;
+
+}
+#a{
+    padding: 50px;
+}
